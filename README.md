@@ -21,7 +21,8 @@ The web app has been build using basic HTML, CSS, Javascript, Flask and Herkou.
 Link: https://bangalore-house-pricing.herokuapp.com/
 
 
-![ML](Screenshots/BangaloreHousePricePredictionHeroku.JPG)
+![ML](Screenshot.png)
+
 
 ## Future Scope :
 * Use multiple Algorithms
